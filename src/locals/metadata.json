@@ -1,0 +1,62 @@
+{
+    "logo":"Dan.",
+    "head_1":"I am ",
+    "head_2":"About us",
+    "head_3":"Services",
+    "head_4":"Portfolio",
+    "head_5":"Get in Touch",
+    "full_name":"Krazee Daniel",
+    "email":"Krazee.Business@hotmail.com",
+    "social_links":[
+        {"src":"/icons8-instagram.svg", "value":"Dans's Instagrame","href":"https://instagram.com/krazeeftw"},
+        {"src":"/icons8-twitch.svg", "value":"Dans's Twitch","href":"https://twitch.tv/kr47ee"},
+        {"src":"/icons8-youtube.svg", "value":"Dans's Youtube Channel","href":"https://www.youtube.com/@krazeeftw"},
+        {"src":"/icons8-spotify.svg", "value":"Dans's Spotify","href":"https://open.spotify.com/user/znmfm35m3cbp2m3sxxs805yc0"}
+    ],
+    "nav_list": [
+        {
+            "name": "Home",
+            "href": "#home"
+        },
+        {
+            "name": "About us",
+            "href": "#about_us"
+        }
+
+        ,
+        
+        {
+            "name": "Services",
+            "href": "#services"
+        },
+        {
+            "name": "Portfolio",
+            "href": "#portfolio"
+        }
+       
+        ,
+        {
+            "name": "Contact us",
+            "href": "#contact_us"
+        }
+    ],
+    "about_us":"Welcome to the official page of Danial Krezee, a skilled professional video editor passionate about transforming raw footage into engaging visual stories. With over 4 years ] of experience, Danial specializes in editing videos for diverse industries, including film, social media, corporate branding, and content creation. His meticulous attention to detail and creativity help deliver stunning visuals that captivate audiences and communicate brand messages effectively.",
+    "services":[
+        {"src":"/service1.jpg", "content":"I will take your gaming session and turn it into an enjoyable, engaging video.", "title":"Gaming Videos"},
+        {"src":"/service2.jpg", "content":"Got some sick clips? Want to compile them all in a sick edit?I got you.", "title":"Montage"},
+        {"src":"/service3.jpg", "content":"I will take your stram and turn it into a video for you to upload to other platforms", "title":"Stream Highlights"},
+        {"src":"/service4.jpg", "content":"I can edit your long-form content into short form for TikTok, Twitter or YouTube Shorts.", "title":"Short form"}
+    ],
+    "portoflio":[
+        "https://www.youtube.com/embed/1niDBoGSksI",
+        "https://www.youtube.com/embed/J2VqhuRklJA",
+        "https://www.youtube.com/embed/RCsh9gHu2Rk",
+        "https://www.youtube.com/embed/1S0iyJKoAlU",
+        "https://www.youtube.com/embed/lXmSwzoprNE",
+        "https://www.youtube.com/embed/1niDBoGSksI",
+        "https://www.youtube.com/embed/SLhF_ZPA4zQ",
+        "https://www.youtube.com/embed/-anxYRiIunA",
+        "https://www.youtube.com/embed/UFLSu9RPXOA"
+
+    ]
+}
