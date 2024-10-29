@@ -2,7 +2,7 @@ import { Head } from "./Head"
 import metadata from "../locals/metadata.json"
 export const About = () => {
     return (
-        <div className="h-screen bg-white h-fit flex justify-center w-full p-10" id="about_us">
+        <div className="h-fit bg-white h-fit flex justify-center w-full p-10" id="about_us">
             <div className="sm:w-1/2 lg:w-1/2 space-y-8">
                 <Head title={metadata["head_2"]} color="color-1" />
                 <div className="space-y-4 lg:flex lg:justify-center lg:space-x-7 lg:items-center sm:flex sm:justify-center sm:space-x-7 sm:items-center">
